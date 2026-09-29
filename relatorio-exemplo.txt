@@ -1,0 +1,23 @@
+====================================================
+                RELATÓRIO DE VENDAS                 
+====================================================
+Planilha: portfolio/resumo-de-vendas/exemplo-vendas.csv
+Pedidos: 15  |  Itens: 33  |  Faturamento: R$ 6.293,10
+
+FATURAMENTO POR MÊS
+  08/2026           R$ 3.815,30
+  09/2026           R$ 2.477,80
+
+POR CATEGORIA
+  Monitores                       R$ 2.697,00
+  Periféricos                     R$ 1.849,00
+  Acessórios                        R$ 947,60
+  Áudio                             R$ 799,50
+
+TOP 5 PRODUTOS (por receita)
+  1. Monitor 24 polegadas              R$ 2.697,00 (3 un.)
+  2. Teclado Mecânico                  R$ 1.449,50 (5 un.)
+  3. Headset com Microfone               R$ 799,50 (5 un.)
+  4. Mouse Sem Fio                       R$ 399,50 (5 un.)
+  5. Mousepad XL                         R$ 319,20 (8 un.)
+====================================================
